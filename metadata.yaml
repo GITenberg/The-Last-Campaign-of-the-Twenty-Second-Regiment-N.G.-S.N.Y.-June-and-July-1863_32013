@@ -1,0 +1,32 @@
+_repo: The-Last-Campaign-of-the-Twenty-Second-Regiment-N.G.-S.N.Y.-June-and-July-1863_32013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wingate, George Wood
+    alias: Wingate, George W.
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '31492'
+    url: http://www.gutenberg.org/2009/agents/31492
+    wikipedia: http://en.wikipedia.org/wiki/George_Wood_Wingate
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- New York Infantry -- 22nd'
+- !lcc 'E456'
+- !lcsh 'United States. Army. New York Infantry Regiment, 22nd (1861-1863)'
+title: The Last Campaign of the Twenty-Second Regiment, N.G., S.N.Y. June and July,
+  1863
+url: http://www.gutenberg.org/ebooks/32013
