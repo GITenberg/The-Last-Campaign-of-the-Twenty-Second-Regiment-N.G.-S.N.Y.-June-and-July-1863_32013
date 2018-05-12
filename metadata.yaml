@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31492
     wikipedia: http://en.wikipedia.org/wiki/George_Wood_Wingate
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32013#The-Last-Campaign-of-the-Twenty-Second-Regiment-N.G.-S.N.Y.-June-and-July-1863
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-04-16'
 gutenberg_type: Text
